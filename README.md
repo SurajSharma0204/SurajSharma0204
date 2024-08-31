@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing skill in data science and AI.
 - 🌱 I’m currently learning Python, EDA, Flask, Machine learning, Deep learning.
 - 💞️ I’m looking to collaborate on data science, machine learning and AI-related projects.
-- 📫 How to reach me sun02april@gmail.com or www.linkedin.com/in/suraj-sharma-0257816b
+- 📫 How to reach me sun02april@gmail.com.
 - 😄 Pronouns: He/Him.
   
 
