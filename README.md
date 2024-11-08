@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Suraj SHarma.
+- 👋 Hi, I’m Suraj Sharma.
 - I am currently working at TTEC India Customer Solution Private LTD as  Team Leader.
 
-My Responsibilities are mentioned below:
+  My Responsibilities are mentioned below:
 
 - Lead and manage a dynamic team of professionals, driving performance and ensuring alignment with company goals.
 - Oversee team productivity, offering coaching, feedback, and support to foster professional growth and optimize results.
