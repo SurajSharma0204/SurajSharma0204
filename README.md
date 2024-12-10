@@ -11,8 +11,8 @@
   
 - 👀 I am also interested in developing skill in data science and AI.
 - 🌱 I’m currently learning Python, EDA, Flask, Machine learning, Deep learning.
-- These helps me in preparing performance insight for the team.
-- 💞️ I’m looking to collaborate on data science, machine learning and AI-related projects.
+- It helps me in preparing performance insight for the team.
+- 💞️ I’m looking to collaborate on data science, machine learning/deep learning and AI-related projects.
 - 📫 How to reach me sun02april@gmail.com.
 - 😄 Pronouns: He/Him.
   
